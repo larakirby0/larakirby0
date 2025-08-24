@@ -2,4 +2,4 @@
 
 Math grad student / former software engineer
 
-You can find my projects organized on [larakirby0.github.io](larakirby0.github.io)!
+You can find my projects organized on [larakirby0.github.io](http://larakirby0.github.io)!
